@@ -1,0 +1,39 @@
+{
+  "dataset_id": "medical-guidelines-evidence-literature-sample-20",
+  "dataset_name_zh": "中外医学指南和询证文献",
+  "dataset_name_zh_full": "中外医学指南和询证文献样本20份",
+  "selected_count": 20,
+  "file_count": 24,
+  "pdf_count": 20,
+  "metadata_count": 3,
+  "total_pdf_size_bytes": 36833239,
+  "total_pdf_size_mb": 35.127,
+  "total_pdf_pages": 1215,
+  "sample_composition": "包含10份中国医学指南/专家共识 PDF，以及10份 Cochrane 系统评价 PDF，并提供文档分类、题名、主题、年份、页数、文件大小和 SHA256 校验值等 JSON 元数据。",
+  "category_counts": {
+    "中国医学指南": 10,
+    "Cochrane循证文献": 10
+  },
+  "topic_counts": {
+    "神经病学/周围神经": 1,
+    "肾脏病/慢性肾脏病": 3,
+    "消化系统/胃炎": 1,
+    "皮肤病/玫瑰痤疮": 1,
+    "脑血管病": 3,
+    "急危重症/中毒": 1,
+    "产科/围产": 5,
+    "感染病/疟疾": 1,
+    "血管外科/间歇性跛行": 1,
+    "运动医学/踝关节": 1,
+    "感染病/呼吸道": 2
+  },
+  "source_breakdown": {
+    "guidelines": 10,
+    "cochrane_reviews": 10
+  },
+  "metadata_files": [
+    "metadata/documents_manifest.jsonl",
+    "metadata/files_manifest.jsonl",
+    "metadata/dataset_summary.json"
+  ]
+}
