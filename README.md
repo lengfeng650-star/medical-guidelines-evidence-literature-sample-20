@@ -25,7 +25,7 @@ configs:
 
 本次发布保留 PDF 原件，并提供面向数据预览、检索和程序加载的 JSONL 清单。中国指南位于 `data/guidelines/`，Cochrane 文献位于 `data/cochrane/`，结构化元数据位于 `metadata/`。
 
-如需了解更多中外医学指南、循证文献、临床共识、医学知识库建设、OCR 解析或批量授权合作，可联系 18996195218，或发送邮件至 zhouhaoran@shujuyoupu.com。
+如需了解更多中外医学指南、循证文献、临床共识、医学知识库建设、OCR 解析或批量授权合作，可发送邮件至 zhouhaoran@shujuyoupu.com。
 
 ## 数据集简介
 
@@ -147,7 +147,7 @@ print(ds[0]["pdf_path"])
 
 ## 合作与联系
 
-本数据集为中外医学指南与循证文献样本。若需要更大规模的指南 PDF、专家共识、Cochrane/系统评价语料、结构化字段、OCR 解析结果、私有化语料建设或模型训练数据合作，请联系 18996195218，或发送邮件至 zhouhaoran@shujuyoupu.com。
+本数据集为中外医学指南与循证文献样本。若需要更大规模的指南 PDF、专家共识、Cochrane/系统评价语料、结构化字段、OCR 解析结果、私有化语料建设或模型训练数据合作，请发送邮件至 zhouhaoran@shujuyoupu.com。
 
 ## 引用方式
 
