@@ -21,6 +21,10 @@ configs:
 
 # 中外医学指南和询证文献样本20份
 
+## 直接下载
+
+- [逐文件下载](https://github.com/lengfeng650-star/medical-guidelines-evidence-literature-sample-20/blob/main/meta/downloads.md)
+
 本数据集是「中外医学指南和询证文献」开源样本，包含中国医学指南/专家共识 PDF 与 Cochrane 系统评价（循证文献）PDF 原件，以及对应 JSON 元数据。样本覆盖国内指南与国际循证文献两类医学文本，便于文档解析、检索增强、知识库构建和模型训练评测。
 
 本次发布保留 PDF 原件，并提供面向数据预览、检索和程序加载的 JSONL 清单。中国指南位于 `data/guidelines/`，Cochrane 文献位于 `data/cochrane/`，结构化元数据位于 `metadata/`。
